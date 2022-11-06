@@ -1,0 +1,253 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@font-face {
+font-family: "Righteous";
+src: url("../fonts/BalooChettan-Regular.ttf");
+src: url("../fonts/BalooChettan-Regular.ttf");
+}
+
+
+
+html {
+     scroll-behavior: smooth;
+}
+
+body {
+     color: #666666;
+     font-size: 14px;
+     font-family:Poppins;
+     line-height: 1.80857;
+     font-weight: normal;
+     overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+     letter-spacing: 0;
+     font-weight: normal;
+     position: relative;
+     padding: 0 0 10px 0;
+     font-weight: normal;
+     line-height: normal;
+     color: #111111;
+     margin: 0
+}
+
+h1 {
+     font-size: 40px
+}
+
+h2 {
+     font-size: 30px
+}
+
+h3 {
+     font-size: 25px
+}
+
+h4 {
+     font-size: 22px
+}
+
+h5 {
+     font-size: 20px
+}
+
+h6 {
+     font-size: 18px
+}
+
+*,
+*::after,
+*::before {
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
+}
+
+button:focus {
+     outline: none;
+    
+}
+
+.col-md-3-1{
+    width: 406.67px;
+    height: 216.4px;
+    left: 944px;
+    top: 319.48px;
+    margin-left: auto;
+    margin-top: auto;
+    
+}
+.expand:hover {
+    scale: 1.2;
+    border-style: solid;
+    border-color: black;
+}
+
+ul,
+li,
+ol {
+     margin: 0px;
+     padding: 0px;
+     list-style: none;
+}
+
+p {
+     margin: 20px;
+     font-weight: 300;
+     font-size: 15px;
+     line-height: 24px;
+}
+
+.icon_1{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.furniture_text{
+    width: 100%;
+    float: left;
+    font-size: 100px;
+    color: #090808;
+    text-align: center;
+    text-transform: uppercase;
+}
+.services_taital{
+    width: 100%;
+    float: left;
+    font-size: 36px;
+    color: #090808;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+.furnitures_text {
+    width: 100%;
+    float: left;
+    font-size: 24px;
+    color: #090808;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 20px;
+}
+.dummy_text{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #090808;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.our_text{
+    width: 100%;
+    float: left;
+    font-size: 36px;
+    color: #121111;
+    text-transform: uppercase;
+    text-align: center;
+}
+.input-group {
+    width: 45%;
+    float: right;
+}
+
+.form-control {
+    display: block;
+    padding: 0px 15px 10px 0px;
+    font-size: 18px;
+    color: #fff;
+    background-color: transparent;
+    border-bottom: 1px solid #fff !important;
+    border-radius: 0px;
+    border: 0px;
+}
+
+.input-group-text {
+    padding: 0px;
+    margin-bottom: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: transparent;
+    border: 0px;
+    border-radius: 0px;
+    border-bottom: 1px solid #fff;
+    text-transform: uppercase;
+}
+
+.input-group-text a{
+    color: #ffffff;
+}
+
+.footer_section{
+    width: 100%;
+    float: left;
+    background-color: #313131;
+    height: auto;
+    padding-bottom: 90px;
+}
+.fooer_logo {
+    width: 100%;
+    float: left;
+    padding-bottom: 40px;
+}
+.customer_text{
+    width: 100%;
+    float: right;
+    font-size: 24px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.footer_lorem_text{
+    width: 80%;
+    float: left;
+    font-size: 16px;
+    color: #fefefe;
+    margin-left: 0px;
+}
+.footer_lorem_text1{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #fefefe;
+    margin-left: 0px;
+}
+.social_icon {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+}
+.social_icon ul{
+    margin: 0px;
+    padding: 0px;
+    display: inline-flex;
+}
+.social_icon li{
+    float: left;
+    padding-right: 5px;
+}
+
+.copyright_section {
+    width: 100%;
+    float: left;
+    background-color: #ffffff;
+    height: auto;
+}
+
+
+
+
+
+
+
